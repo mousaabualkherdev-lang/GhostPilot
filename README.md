@@ -85,8 +85,8 @@ The authors and contributors are **not liable** for any misuse of this software.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/heabmousa/advanced-browser-automation.git
-cd advanced-browser-automation
+git clone https://github.com/mousaabualkherdev-lang/GhostPilot.git
+cd GhostPilot
 ```
 
 ### 2. Create Virtual Environment (Recommended)
@@ -116,7 +116,7 @@ playwright install chromium
 ```python
 import asyncio
 from playwright.async_api import async_playwright
-from security import AdvancedBrowserAutomation
+from GhostPilot import AdvancedBrowserAutomation
 
 async def main():
     # Initialize the automation system
@@ -169,7 +169,7 @@ if __name__ == "__main__":
 ```python
 import asyncio
 from playwright.async_api import async_playwright
-from security import AdvancedBrowserAutomation
+from GhostPilot import AdvancedBrowserAutomation
 
 async def advanced_automation():
     automation = AdvancedBrowserAutomation()
@@ -266,7 +266,7 @@ if __name__ == "__main__":
 
 ## Project Structure
 ```
-advanced-browser-automation/
+GhostPilot/
 │
 ├── README.md                 # This file
 ├── LICENSE                   # MIT License
@@ -275,7 +275,7 @@ advanced-browser-automation/
 │
 ├── src/
 │   ├── __init__.py
-│   └── security.py          # Main automation system
+│   └── GhostPilot.py          # Main automation system
 │
 ├── examples/
 │   ├── basic_usage.py       # Basic usage example
@@ -303,7 +303,7 @@ The system provides comprehensive browser configuration through `get_advanced_br
 - **Graphics Configuration**: GPU and rendering settings
 - **Privacy Settings**: Disables tracking and sync
 - **Performance Tuning**: Memory and resource optimization
-- **Security Settings**: TLS and WebRTC configuration
+- **security Settings**: TLS and WebRTC configuration
 
 ### Fingerprint Protection
 
