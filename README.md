@@ -507,9 +507,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Mousa Abualkher**
 
-- GitHub: [@heabmousa](https://github.com/heabmousa)
-- LinkedIn: [Mousa Abualkher](https://linkedin.com/in/mousa-abualkher-b7317933b)
-- Email: heabmousa@gmail.com
+- GitHub: [@mousaabualkherdev-lang]([https://github.com/heabmousa](https://github.com/mousaabualkherdev-lang))
+- LinkedIn: [Mousa Abualkher]([https://linkedin.com/in/mousa-abualkher-b7317933b](https://www.linkedin.com/in/mousa-abualkher-624550394/))
+- Email: mousaabualkher.dev@gmail.com
+
 
 ## Acknowledgments
 
